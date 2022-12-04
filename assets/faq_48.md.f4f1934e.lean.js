@@ -1,1 +1,0 @@
-import{_ as a,c as s,o as n,a as e}from"./app.2ceb7eee.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"faq/48.md","lastUpdated":1670122480000}'),t={name:"faq/48.md"},l=e("",2),o=[l];function p(c,r,i,_,d,h){return n(),s("div",null,o)}const m=a(t,[["render",p]]);export{u as __pageData,m as default};
