@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,a as o}from"./app.24744b28.js";const f=JSON.parse('{"title":"Gamelog Files","description":"","frontmatter":{},"headers":[],"relativePath":"faq/89.md","lastUpdated":1670171088000}'),l={name:"faq/89.md"},i=o("",5),s=[i];function r(c,n,d,p,_,h){return t(),a("div",null,s)}const g=e(l,[["render",r]]);export{f as __pageData,g as default};

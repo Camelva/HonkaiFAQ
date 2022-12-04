@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as i,a as o}from"./app.24744b28.js";const u=JSON.parse('{"title":"Asterite Priority","description":"","frontmatter":{},"headers":[],"relativePath":"faq/68.md","lastUpdated":1670171088000}'),a={name:"faq/68.md"},r=o("",5),l=[r];function s(n,c,S,p,d,_){return i(),t("div",null,l)}const f=e(a,[["render",s]]);export{u as __pageData,f as default};

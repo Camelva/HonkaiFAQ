@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.97c19779.js";const u=JSON.parse('{"title":"Blood Dance holder","description":"","frontmatter":{},"headers":[],"relativePath":"faq/39.md","lastUpdated":1670171088000}'),s={name:"faq/39.md"},r=o("",4),l=[r];function i(n,d,p,c,h,_){return a(),t("div",null,l)}const m=e(s,[["render",i]]);export{u as __pageData,m as default};

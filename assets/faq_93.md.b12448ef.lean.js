@@ -1,1 +1,0 @@
-import{_ as o,c as t,o as e,a}from"./app.24744b28.js";const u=JSON.parse('{"title":"Constellations","description":"","frontmatter":{},"headers":[],"relativePath":"faq/93.md","lastUpdated":1670171088000}'),n={name:"faq/93.md"},c=a("",13),s=[c];function l(p,S,i,_,r,d){return e(),t("div",null,s)}const q=o(n,[["render",l]]);export{u as __pageData,q as default};

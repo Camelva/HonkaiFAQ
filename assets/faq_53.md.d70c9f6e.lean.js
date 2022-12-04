@@ -1,1 +1,0 @@
-import{_ as t,c as d,o as e,a}from"./app.24744b28.js";const u=JSON.parse('{"title":"PRI Upgrade Cost","description":"","frontmatter":{},"headers":[],"relativePath":"faq/53.md","lastUpdated":1670171088000}'),r={name:"faq/53.md"},o=a("",3),s=[o];function c(_,n,h,i,p,l){return e(),d("div",null,s)}const m=t(r,[["render",c]]);export{u as __pageData,m as default};

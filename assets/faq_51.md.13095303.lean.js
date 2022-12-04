@@ -1,1 +1,0 @@
-import{_ as t,c as d,o as e,a as r}from"./app.24744b28.js";const p=JSON.parse('{"title":"Augment cost","description":"","frontmatter":{},"headers":[],"relativePath":"faq/51.md","lastUpdated":1670171088000}'),a={name:"faq/51.md"},o=r("",6),s=[o];function n(h,_,c,S,l,i){return e(),d("div",null,s)}const u=t(a,[["render",n]]);export{p as __pageData,u as default};

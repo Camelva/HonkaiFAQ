@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,a as t}from"./app.97c19779.js";const p=JSON.parse('{"title":"What makes DK so good?","description":"","frontmatter":{},"headers":[],"relativePath":"faq/73.md","lastUpdated":1670171088000}'),o={name:"faq/73.md"},i=t("",3),l=[i];function n(d,r,c,h,m,_){return s(),a("div",null,l)}const g=e(o,[["render",n]]);export{p as __pageData,g as default};
