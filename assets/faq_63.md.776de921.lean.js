@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as i}from"./app.24744b28.js";const u=JSON.parse('{"title":"Change Bridge Valkyrie","description":"","frontmatter":{},"headers":[],"relativePath":"faq/63.md","lastUpdated":1670171088000}'),r={name:"faq/63.md"},o=i("",6),l=[o];function n(c,s,h,p,d,_){return a(),t("div",null,l)}const b=e(r,[["render",n]]);export{u as __pageData,b as default};

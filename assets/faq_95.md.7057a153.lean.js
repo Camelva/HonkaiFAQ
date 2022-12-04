@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a}from"./app.24744b28.js";const m=JSON.parse('{"title":"How good is X, I saw it in [spoilers]","description":"","frontmatter":{},"headers":[],"relativePath":"faq/95.md","lastUpdated":1670171088000}'),o={name:"faq/95.md"},i=a("",7),n=[i];function r(l,h,d,p,c,u){return s(),t("div",null,n)}const g=e(o,[["render",r]]);export{m as __pageData,g as default};
