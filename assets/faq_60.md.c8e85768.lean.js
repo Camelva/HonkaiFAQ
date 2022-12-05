@@ -1,0 +1,1 @@
+import{_ as o,c as i,o as l,e}from"./app.d863ba2b.js";const h=JSON.parse('{"title":"Account progression suggestions","description":"","frontmatter":{},"headers":[],"relativePath":"faq/60.md","lastUpdated":1670171088000}'),s={name:"faq/60.md"},t=e("",15),a=[t];function n(r,c,S,d,g,p){return l(),i("div",null,a)}const _=o(s,[["render",n]]);export{h as __pageData,_ as default};

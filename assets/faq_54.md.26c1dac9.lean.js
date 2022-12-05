@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as a,a as t}from"./app.97c19779.js";const f=JSON.parse('{"title":"How to clear cache on PC","description":"","frontmatter":{},"headers":[],"relativePath":"faq/54.md","lastUpdated":1670171088000}'),n={name:"faq/54.md"},c=t("",5),r=[c];function i(s,l,d,h,p,_){return a(),o("div",null,r)}const u=e(n,[["render",i]]);export{f as __pageData,u as default};

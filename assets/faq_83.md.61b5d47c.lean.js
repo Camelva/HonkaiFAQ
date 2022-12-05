@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,a as i}from"./app.97c19779.js";const _=JSON.parse('{"title":"Desirable affixes (outdated)","description":"","frontmatter":{},"headers":[],"relativePath":"faq/83.md","lastUpdated":1670171088000}'),s={name:"faq/83.md"},o=i("",4),n=[o];function l(r,d,c,f,u,m){return t(),a("div",null,n)}const h=e(s,[["render",l]]);export{_ as __pageData,h as default};
