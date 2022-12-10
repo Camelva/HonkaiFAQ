@@ -1,1 +1,0 @@
-import{_ as a,c as s,o as n,e}from"./app.d863ba2b.js";const C=JSON.parse('{"title":"Growth Fund","description":"","frontmatter":{},"headers":[],"relativePath":"faq/48.md","lastUpdated":1670171088000}'),t={name:"faq/48.md"},o=e("",3),l=[o];function p(c,r,d,i,_,h){return n(),s("div",null,l)}const f=a(t,[["render",p]]);export{C as __pageData,f as default};

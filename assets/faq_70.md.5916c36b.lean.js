@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,e as t}from"./app.d863ba2b.js";const h=JSON.parse('{"title":"All about Stamina Regen","description":"","frontmatter":{},"headers":[],"relativePath":"faq/70.md","lastUpdated":1670171088000}'),i={name:"faq/70.md"},d=t("",3),n=[d];function r(c,l,s,u,m,_){return o(),a("div",null,n)}const g=e(i,[["render",r]]);export{h as __pageData,g as default};

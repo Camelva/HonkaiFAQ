@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as s,a}from"./app.9a72544e.js";const f=JSON.parse('{"title":"Le Multiplicateurs","description":"","frontmatter":{},"headers":[],"relativePath":"faq/fr/16.md","lastUpdated":1670678328000}'),t={name:"faq/fr/16.md"},l=a("",6),o=[l];function u(n,r,m,c,d,p){return s(),i("div",null,o)}const g=e(t,[["render",u]]);export{f as __pageData,g as default};

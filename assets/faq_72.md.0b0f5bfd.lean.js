@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,e as a}from"./app.d863ba2b.js";const g=JSON.parse('{"title":"ELI5: How does X affect my damage?","description":"","frontmatter":{},"headers":[],"relativePath":"faq/72.md","lastUpdated":1670171088000}'),s={name:"faq/72.md"},c=a("",17),d=[c];function i(l,n,r,f,h,m){return o(),t("div",null,d)}const u=e(s,[["render",i]]);export{g as __pageData,u as default};

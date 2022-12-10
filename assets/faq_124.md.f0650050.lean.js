@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s,e as a}from"./app.d863ba2b.js";const f=JSON.parse('{"title":"\\"Does pity transfer?\\"","description":"","frontmatter":{},"headers":[],"relativePath":"faq/124.md","lastUpdated":1670171088000}'),r={name:"faq/124.md"},n=a("",4),i=[n];function o(l,p,u,c,d,_){return s(),t("div",null,i)}const y=e(r,[["render",o]]);export{f as __pageData,y as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.9a72544e.js";const m=JSON.parse('{"title":"Input Buffer","description":"","frontmatter":{},"headers":[],"relativePath":"faq/87.md","lastUpdated":1670171088000}'),i={name:"faq/87.md"},s=o("",16),n=[s];function l(h,u,r,p,d,c){return a(),t("div",null,n)}const b=e(i,[["render",l]]);export{m as __pageData,b as default};

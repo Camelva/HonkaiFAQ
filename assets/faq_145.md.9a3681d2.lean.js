@@ -1,1 +1,0 @@
-import{_ as a,c as n,o as e,e as s}from"./app.d863ba2b.js";const C=JSON.parse('{"title":"How to unlink account","description":"","frontmatter":{},"headers":[],"relativePath":"faq/145.md","lastUpdated":1670171088000}'),o={name:"faq/145.md"},t=s("",14),l=[t];function c(p,i,r,d,u,h){return e(),n("div",null,l)}const _=a(o,[["render",c]]);export{C as __pageData,_ as default};

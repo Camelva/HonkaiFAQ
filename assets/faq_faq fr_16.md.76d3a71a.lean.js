@@ -1,1 +1,0 @@
-import{_ as e,c as i,o as s,e as a}from"./app.d863ba2b.js";const f=JSON.parse('{"title":"Le Multiplicateurs","description":"","frontmatter":{},"headers":[],"relativePath":"faq/faq fr/16.md","lastUpdated":1670208811000}'),t={name:"faq/faq fr/16.md"},l=a("",6),o=[l];function u(n,r,m,c,d,p){return s(),i("div",null,o)}const g=e(t,[["render",u]]);export{f as __pageData,g as default};
