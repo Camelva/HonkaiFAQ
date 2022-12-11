@@ -1,1 +1,0 @@
-import{_ as r,c as e,o as i,a as l}from"./app.9a72544e.js";const u=JSON.parse('{"title":"\\"Verification error\\"","description":"","frontmatter":{},"headers":[],"relativePath":"faq/151.md","lastUpdated":1670171088000}'),o={name:"faq/151.md"},a=l("",8),t=[a];function s(d,_,p,n,c,h){return i(),e("div",null,t)}const b=r(o,[["render",s]]);export{u as __pageData,b as default};

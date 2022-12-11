@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as o}from"./app.9a72544e.js";const f=JSON.parse('{"title":"What makes HoS so good?","description":"","frontmatter":{},"headers":[],"relativePath":"faq/117.md","lastUpdated":1670171088000}'),i={name:"faq/117.md"},r=o("",5),s=[r];function n(l,h,c,m,d,g){return a(),t("div",null,s)}const u=e(i,[["render",n]]);export{f as __pageData,u as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as i}from"./app.9a72544e.js";const f=JSON.parse('{"title":"More Context Required","description":"","frontmatter":{},"headers":[],"relativePath":"faq/80.md","lastUpdated":1670171088000}'),o={name:"faq/80.md"},r=i("",4),n=[r];function s(l,d,c,_,u,p){return a(),t("div",null,n)}const g=e(o,[["render",s]]);export{f as __pageData,g as default};
