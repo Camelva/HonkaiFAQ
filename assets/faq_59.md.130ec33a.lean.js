@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,a}from"./app.8a15cda7.js";const f=JSON.parse('{"title":"Reroll","description":"","frontmatter":{},"headers":[],"relativePath":"faq/59.md","lastUpdated":1670171088000}'),o={name:"faq/59.md"},l=a("",8),i=[l];function s(n,p,c,h,d,u){return r(),t("div",null,i)}const g=e(o,[["render",s]]);export{f as __pageData,g as default};

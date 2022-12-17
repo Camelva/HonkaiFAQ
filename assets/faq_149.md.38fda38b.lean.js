@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as n}from"./app.17c68a76.js";const h=JSON.parse('{"title":"Tuning a weapon","description":"","frontmatter":{},"headers":[],"relativePath":"faq/149.md","lastUpdated":1670171088000}'),o={name:"faq/149.md"},i=n("",8),r=[i];function s(u,p,l,c,d,_){return a(),t("div",null,r)}const y=e(o,[["render",s]]);export{h as __pageData,y as default};

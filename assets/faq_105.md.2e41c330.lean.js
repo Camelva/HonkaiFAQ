@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a}from"./app.17c68a76.js";const f=JSON.parse('{"title":"Story Crystal Rewards (ch32)","description":"","frontmatter":{},"headers":[],"relativePath":"faq/105.md","lastUpdated":1671297648000}'),s={name:"faq/105.md"},o=a("",6),d=[o];function c(l,n,_,i,p,h){return r(),t("div",null,d)}const g=e(s,[["render",c]]);export{f as __pageData,g as default};

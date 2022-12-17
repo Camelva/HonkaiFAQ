@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,a as t}from"./app.17c68a76.js";const p=JSON.parse('{"title":"How to find sensei/cadet/armada","description":"","frontmatter":{},"headers":[],"relativePath":"faq/139.md","lastUpdated":1670171088000}'),i={name:"faq/139.md"},n=t("",5),s=[n];function o(d,l,c,_,f,h){return r(),a("div",null,s)}const m=e(i,[["render",o]]);export{p as __pageData,m as default};

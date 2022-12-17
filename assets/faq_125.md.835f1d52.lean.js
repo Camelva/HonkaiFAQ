@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a as o}from"./app.8a15cda7.js";const u=JSON.parse('{"title":"All about account","description":"","frontmatter":{},"headers":[],"relativePath":"faq/125.md","lastUpdated":1670171088000}'),r={name:"faq/125.md"},c=o("",5),n=[c];function s(l,d,_,i,h,p){return t(),e("div",null,n)}const m=a(r,[["render",s]]);export{u as __pageData,m as default};

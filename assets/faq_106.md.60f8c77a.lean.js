@@ -1,1 +1,0 @@
-import{_ as a,c as r,o,a as e}from"./app.8a15cda7.js";const w=JSON.parse(`{"title":"Witch Orbs, Witch's Corridor","description":"","frontmatter":{},"headers":[],"relativePath":"faq/106.md","lastUpdated":1670171088000}`),t={name:"faq/106.md"},i=e("",8),l=[i];function s(c,n,f,d,g,p){return o(),r("div",null,l)}const _=a(t,[["render",s]]);export{w as __pageData,_ as default};

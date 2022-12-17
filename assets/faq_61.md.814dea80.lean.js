@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as i,a as r}from"./app.17c68a76.js";const h=JSON.parse('{"title":"Ways to identify your server!","description":"","frontmatter":{},"headers":[],"relativePath":"faq/61.md","lastUpdated":1670171088000}'),o={name:"faq/61.md"},s=r("",13),a=[s];function n(l,c,p,u,d,_){return i(),t("div",null,a)}const f=e(o,[["render",n]]);export{h as __pageData,f as default};
