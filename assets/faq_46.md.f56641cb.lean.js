@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as o}from"./app.17c68a76.js";const h=JSON.parse('{"title":"Time Capsule (outdated)","description":"","frontmatter":{},"headers":[],"relativePath":"faq/46.md","lastUpdated":1670171088000}'),s={name:"faq/46.md"},r=o("",4),n=[r];function i(l,p,d,u,c,_){return a(),t("div",null,n)}const f=e(s,[["render",i]]);export{h as __pageData,f as default};

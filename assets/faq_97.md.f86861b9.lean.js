@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a as t}from"./app.17c68a76.js";const u=JSON.parse('{"title":"PRI leveling","description":"","frontmatter":{},"headers":[],"relativePath":"faq/97.md","lastUpdated":1670171088000}'),s={name:"faq/97.md"},i=t("",7),r=[i];function l(n,c,p,d,h,m){return o(),a("div",null,r)}const f=e(s,[["render",l]]);export{u as __pageData,f as default};

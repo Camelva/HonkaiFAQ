@@ -1,1 +1,0 @@
-import{_ as a,c as t,o as e,a as o}from"./app.17c68a76.js";const k=JSON.parse('{"title":"Branch attack (combo, charged)","description":"","frontmatter":{},"headers":[],"relativePath":"faq/42.md","lastUpdated":1670208811000}'),r={name:"faq/42.md"},c=o("",10),n=[c];function s(i,l,d,h,p,_){return e(),t("div",null,n)}const m=a(r,[["render",s]]);export{k as __pageData,m as default};
