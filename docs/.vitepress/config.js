@@ -59,7 +59,7 @@ export default defineConfig({
             // console.dir(ctx.pageData.frontmatter?.["preview"])
             return base.concat([["meta", {"property": "og:image", "content": ctx.pageData.frontmatter["preview"]}]])
         } else {
-            return base
+            return base.concat([["meta", {"property": "og:image", "content": "/icon.svg"}]])
         }
     }
 })
