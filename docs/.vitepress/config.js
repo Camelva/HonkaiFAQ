@@ -56,10 +56,9 @@ export default defineConfig({
         ]
 
         if (Object.prototype.hasOwnProperty.call(ctx.pageData.frontmatter, "preview")) {
-            // console.dir(ctx.pageData.frontmatter?.["preview"])
             return base.concat([["meta", {"property": "og:image", "content": ctx.pageData.frontmatter["preview"]}]])
         } else {
-            return base.concat([["meta", {"property": "og:image", "content": "https://honkaifaq.vercel.app/icon.svg"}]])
+            return base.concat([["meta", {"property": "og:image", "content": "https://honkaifaq.vercel.app/icon-512.png"}]])
         }
     }
 })
