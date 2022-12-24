@@ -1,4 +1,4 @@
-import { defineConfig, withBase } from 'vitepress'
+import { defineConfig } from 'vitepress'
 
 import texmath from 'markdown-it-texmath'
 import multimd_table_plugin from 'markdown-it-multimd-table'
