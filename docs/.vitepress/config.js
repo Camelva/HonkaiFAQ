@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, withBase } from 'vitepress'
 
 import texmath from 'markdown-it-texmath'
 import multimd_table_plugin from 'markdown-it-multimd-table'
@@ -59,7 +59,7 @@ export default defineConfig({
             // console.dir(ctx.pageData.frontmatter?.["preview"])
             return base.concat([["meta", {"property": "og:image", "content": ctx.pageData.frontmatter["preview"]}]])
         } else {
-            return base.concat([["meta", {"property": "og:image", "content": "/icon.svg"}]])
+            return base.concat([["meta", {"property": "og:image", "content": "https://honkaifaq.vercel.app/icon.svg"}]])
         }
     }
 })
