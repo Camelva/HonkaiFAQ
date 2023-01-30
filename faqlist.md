@@ -1,5 +1,5 @@
 - [x]   1: war treasury
-- [ ]   2: ???
+- [ ]   2: honkai guides (basically just a link to https://walkthrough.honkaiimpact3.com, which is dead now)
 - [x]   3: damage, damage types
 - [x]   4: how pity works, pity
 - [x]   5: expedition
@@ -14,22 +14,22 @@
 - [x]  14: fr pont
 - [x]  15: fr new
 - [x]  16: fr dmg
-- [ ]  17: fr stamina
-- [x]  18: fr rank
-- [x]  19: faq fr bounty
+- [ ]  17: fr stamina (gone?)
+- [x]  18: fr rank (gone?)
+- [x]  19: faq fr bounty (gone?)
 - [x]  20: hov
-- [ ]  21: ???
+- [x]  21: genshin
 - [x]  22: abbreviations, abbr
-- [ ]  23: ???
-- [x]  24: fr subs
-- [x]  25: fr pri
+- [x]  23: faq px
+- [x]  24: fr subs (gone?)
+- [x]  25: fr pri (gone?)
 - [ ]  26: faq shortcuts
 - [x]  27: tf
 - [x]  28: crt
-- [x]  29: fr oeuf
-- [x]  30: fr xp
-- [x]  31: fr xtal
-- [ ]  32: bounty
+- [x]  29: fr oeuf (gone?)
+- [x]  30: fr xp (gone?)
+- [x]  31: fr xtal (gone?)
+- [x]  32: bounty
 - [x]  33: evasion
 - [x]  34: egg
 - [x]  35: shop
@@ -49,13 +49,13 @@
 - [x]  49: gamepath
 - [x]  50: difficulty
 - [x]  51: augment
-- [ ]  52: ???
+- [x]  52: dorm supply number
 - [x]  53: pri costs
 - [x]  54: pcclearcache
 - [x]  55: bingo
 - [x]  56: abreviaciones
 - [x]  57: mantenimiento
-- [ ]  58: ???
+- [x]  58: dorm supply
 - [x]  59: reroll
 - [x]  60: goals
 - [x]  61: whatserver
@@ -64,7 +64,7 @@
 - [x]  64: fallen crystallum
 - [x]  65: pri what
 - [x]  66: expeditions
-- [ ]  67: check ranking
+- [x]  67: check ranking
 - [x]  68: asterites priority, aster
 - [x]  69: linkmihoyo
 - [x]  70: stamina regen
@@ -72,11 +72,11 @@
 - [x]  72: dmg, eli5damage, eli5dmg
 - [x]  73: dk why
 - [x]  74: rates
-- [ ]  75: resource uses
+- [x]  75: resource uses (dupe of 103)
 - [x]  76: level up break through break the ceiling experience rush
-- [ ]  77: ???
+- [x]  77: faq HF
 - [x]  78: salvage mats
-- [ ]  79: ???
+- [x]  79: faq AE
 - [x]  80: context
 - [x]  81: battlesuit
 - [x]  82: reaction
@@ -89,18 +89,18 @@
 - [x]  89: gamelog
 - [x]  90: pinned polite
 - [x]  91: valk gearing, pulling gear, pulling gacha gear
-- [ ]  92: ???
+- [x]  92: faq VG
 - [x]  93: constellation
-- [ ]  94: ???
+- [x]  94: dorm interactions
 - [x]  95: beta
 - [x]  96: gold pins
 - [x]  97: pri leveling
 - [x]  98: future events, future banners, future supplies
-- [ ]  99: ???
+- [x]  99: dorm luck tier list
 - [x] 100: valks tier list
 - [x] 101: salvage stigma
 - [x] 102: ancient
-- [x] 103: resources
+- [x] 103: resources (dupe of 75)
 - [x] 104: iguid
 - [x] 105: story crystals, story xtals
 - [x] 106: witch orbs, pure witch orbs, pure elf orbs, witch's corridor
@@ -138,12 +138,12 @@
 - [x] 138: mirage farming, farming priority, farming order, universal mirage
 - [x] 139: find sensei, find armada, find cadet
 - [x] 140: ht bombard, ht breath
-- [x] 141: honaki - potentially just a alias for #112
+- [x] 141: spending irl money
 - [x] 142: 3rd party login, hoyolab login
 - [x] 143: hoyolab google
 - [x] 144: uid58
 - [x] 145: unbind, unlink
-- [ ] 146: stigmata what
+- [x] 146: stigmata what
 - [x] 147: torus income
 - [x] 148: zith
 - [x] 149: tune
@@ -156,3 +156,11 @@
 - [x] 156: dst
 - [x] 157: pri priority, pri-arm priority
 - [x] 158: early game, late game
+- [x] 159: valk exp
+- [x] 160: top-up
+- [x] 161: copium rehab
+- [x] 162: get x faster
+- [x] 163: slowmode
+- [x] 164: doomposting
+- [x] 165: get cn
+- [x] 166: roll htr

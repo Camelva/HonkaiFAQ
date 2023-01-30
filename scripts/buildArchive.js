@@ -73,9 +73,9 @@ function main() {
 }
 
 const regionalPath = {
-    "French": "fr/",
-    "Spanish": "es/",
-    "Indonesian": "id/"
+    "French": "",
+    "Spanish": "",
+    "Indonesian": ""
 }
 
 main()

@@ -1,6 +1,7 @@
 General:
 - 5: expedition
 - 6: frags
+- 21: genshin
 - 22: abbreviations, abbr
 - 37: rankup
 - 41: awaken
@@ -13,27 +14,36 @@ General:
 - 81: battlesuit
 - 83: affix
 - 88: divine key raid, grips of tai xuan raid, tai xuan how, divine key coop raid
+- 94: dorm interactions
 - 101: salvage stigma
 - 111: main
 - 118: team
 - 119: aug what
 - 133: elysian realm guide, er guide, er signets
+- 146: stigmata what
 - 154: powercreep, power creep, old valks, outdated
+- 159: valk exp
 
 Gacha:
 - 4: how pity works, pity
+- 52: dorm supply number
 - 55: bingo
+- 58: dorm supply
 - 74: rates
 - 84: firepower
 - 91: valk gearing, pulling gear, pulling gacha gear
 - 93: constellation
 - 98: future events, future banners, future supplies
+- 99: dorm luck tier list
 - 113: expa foca supply select
 - 114: topup event
 - 120: wishing well
 - 121: duplicates, dupes
 - 122: elf unlock, elf ranks
 - 124: pity counter, guarantee counter
+- 141: spending irl money
+- 160: top-up
+- 166: roll htr
 
 
 Account progression:
@@ -55,14 +65,19 @@ Shops:
 - 35: shop
 - 68: asterites priority, aster
 - 71: resonance, exchange shop
+- 75: resource uses (dupe of 103)
 - 96: gold pins
-- 103: resources
+- 103: resources (dupe of 75)
 - 106: witch orbs, pure witch orbs, pure elf orbs, witch's corridor
 
 Valk guides:
 - 20: hov
+- 23: faq px
 - 39: bd holder
 - 73: dk why
+- 77: faq HF
+- 79: faq AE
+- 92: faq VG
 - 110: suit sw
 - 116: valk fk
 - 117: hos why
@@ -97,6 +112,7 @@ Income:
 - 102: ancient
 - 105: story crystals, story xtals
 - 147: torus income
+- 162: get x faster
 
 Technical-help:
 - 9: subtitles
@@ -123,21 +139,26 @@ Technical-help:
 - 145: unbind, unlink
 - 150: pcspec
 - 151: mandown
-# - 153: pcspecs - dupe of 150?
+- 153: pcspecs
 - 156: dst
+- 165: get cn
 
 Fluff:
 - 43: mtkek
 - 50: difficulty
+- 67: check ranking
 - 90: pinned polite
 - 95: beta
 - 100: valks tier list
 - 115: spoonfeed
 - 126: chatmt
-# - 141: honaki - potentially just a alias for 112
 - 148: zith
+- 161: copium rehab
+- 163: slowmode
+- 164: doomposting
 
 Outdated:
+- 32: bounty
 - 45: katana choice
 - 46: time capsule
 - 48: growth fund
@@ -146,13 +167,10 @@ Outdated:
 - 138: mirage farming, farming priority, farming order, universal mirage
 
 Missing:
-- 17: fr stamina
+- 2: honkai guides (basically just a link to https://walkthrough.honkaiimpact3.com, which is dead now)
+- 17: fr stamina (gone?)
 - 26: faq shortcuts
-- 32: bounty
 - 36: bug
-- 67: check ranking
-- 75: resource uses
-- 146: stigmata what
 
 Regional:
   French:
@@ -160,13 +178,13 @@ Regional:
   - 14: fr pont # bridge Valk
   - 15: fr new
   - 16: fr dmg
-  - 18: fr rank
-  - 19: fr bounty
-  - 24: fr subs # subtitles
-  - 25: fr pri
-  - 29: fr oeuf # s rank egg
-  - 30: fr xp
-  - 31: fr xtal
+  - 18: fr rank (gone?)
+  - 19: fr bounty (gone?)
+  - 24: fr subs (gone?) # subtitles 
+  - 25: fr pri (gone?)
+  - 29: fr oeuf (gone?) # s rank egg
+  - 30: fr xp (gone?)
+  - 31: fr xtal (gone?)
 
   Indonesian:
   - 128: id build
