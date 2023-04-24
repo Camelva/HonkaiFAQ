@@ -15,6 +15,9 @@ export default defineConfig({
     cleanUrls: "without-subfolders",
 
     themeConfig: {
+        search: {
+            provider: 'local',
+        },
         sidebar: customBar(),
         outline: [2,3]
     },

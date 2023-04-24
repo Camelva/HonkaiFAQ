@@ -11,11 +11,11 @@
     "prebuild": "node scripts/buildArchive"
   },
   "devDependencies": {
-    "katex": "^0.16.4",
-    "markdown-it-multimd-table": "^4.2.0",
+    "katex": "^0.16.6",
+    "markdown-it-multimd-table": "^4.2.1",
     "markdown-it-texmath": "^1.0.0",
-    "vitepress": "^1.0.0-alpha.33",
-    "vue": "^3.2.45",
-    "yaml": "^2.2.0"
+    "vitepress": "^1.0.0-alpha.74",
+    "vue": "^3.2.47",
+    "yaml": "^2.2.2"
   }
 }
